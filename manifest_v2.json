@@ -1,0 +1,61 @@
+{
+  "item": {
+    "id": "io.github.fpm0312.watchnav",
+    "restype": "quick_app",
+    "name": "手表导航",
+    "description": "把手机上的高德地图导航投到手表上，抬腕就能看，骑车走路不用一直掏手机。\n\n■ 手表上显示什么\n· 转向箭头：左转 / 右转 / 直行\n· 剩余距离（大字显示，瞟一眼就够）\n· 当前道路名称\n· 预计到达时间\n· 转向时手表振动提醒\n\n■ 怎么用\n1. 手表端安装本资源；\n2. 手机端安装配套 App（下载地址见「外部链接」），并在系统设置里给它开启「通知使用权」；\n3. 手机打开高德地图开始导航，导航信息会自动同步到手表。\n\n■ 说明\n手机端 App 负责读取高德导航通知并转发给手表，因此必须配合使用。只装手表端会显示演示数据。\n适配机型：小米手表 S3 系列、S4 系列、S4 41mm、S5 系列、S5 41mm。",
+    "preview": [
+      "media/preview-1.png",
+      "media/preview-2.png",
+      "media/preview-3.png"
+    ],
+    "icon": "media/icon.png",
+    "cover": "media/cover.png",
+    "author": [
+      {
+        "name": "fpm",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [
+    {
+      "title": "手机端 App（APK 下载）",
+      "url": "https://github.com/fpm0312/astrobox-resource-io-github-fpm0312-watchnav/raw/main/downloads/VelaNav.apk",
+      "icon": "github-logo"
+    }
+  ],
+  "downloads": {
+    "xmws5": {
+      "version": "0.1.0",
+      "file_name": "downloads/watchnav.rpk",
+      "versionCode": 1
+    },
+    "xmws3": {
+      "version": "0.1.0",
+      "file_name": "downloads/watchnav.rpk",
+      "versionCode": 1
+    },
+    "xmws4": {
+      "version": "0.1.0",
+      "file_name": "downloads/watchnav.rpk",
+      "versionCode": 1
+    },
+    "xmws4xring": {
+      "version": "0.1.0",
+      "file_name": "downloads/watchnav.rpk",
+      "versionCode": 1
+    },
+    "xmws441": {
+      "version": "0.1.0",
+      "file_name": "downloads/watchnav.rpk",
+      "versionCode": 1
+    },
+    "xmws541": {
+      "version": "0.1.0",
+      "file_name": "downloads/watchnav.rpk",
+      "versionCode": 1
+    }
+  },
+  "ext": {}
+}
